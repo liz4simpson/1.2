@@ -1,3 +1,6 @@
 print("Hello World!")
 print("My name is Liza")
 print("Im 19 years old")
+print("Whats about you? Whats your name?")
+name_user=input()
+print("Hello, Liza. My name is " + name_user)
